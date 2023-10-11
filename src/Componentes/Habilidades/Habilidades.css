@@ -1,0 +1,21 @@
+.Habilidades{
+    height: 100vh;
+    margin-top: 3%;
+}
+
+h4{
+    margin-bottom: 15px
+}
+
+ul{
+    display: flex;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+ul li{
+    margin-right: 5%;
+}
+
+
+

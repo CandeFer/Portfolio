@@ -1,0 +1,42 @@
+.SobreMi{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center; 
+}
+
+.SobreMi .contenido{
+    margin: 0 auto 0 auto;
+    display: flex;
+}
+
+.SobreMi .Foto img{
+    max-width:  340px;
+}
+
+.SobreMi .Informacion{
+    margin-left: 10px;
+}
+
+.SobreMi .Informacion button{
+    border-color:#3500D4 ;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 50%;
+    background-color: black;
+    color: #3500D4;
+    margin-top: 20px
+}
+
+.SobreMi .Informacion .Texto {
+    width: 80%;
+}
+
+.SobreMi .Informacion .Texto h1{
+    color: #3500D4;
+}
+
+.SobreMi .Informacion .Texto h4{
+    color: aliceblue;
+}
+

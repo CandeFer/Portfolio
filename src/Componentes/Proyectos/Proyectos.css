@@ -1,0 +1,84 @@
+.Proyectos{
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;  
+}
+
+.Proyectos .Proy{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.Proyecto1{
+    width: 400px;
+    margin-right: 25%;
+    margin-bottom: 3%;
+
+}
+.Proyecto1 h3{
+    text-align: center;
+}
+
+
+
+.Proyecto1 button{
+    margin-left: 34%;
+}
+
+
+.Proyecto1 img{
+    border-radius: 10px;
+    border: solid 1px;
+    border-color: #1a0264;
+    max-width: 400px;
+   
+}
+
+.Proyecto2{
+    width: 400px;
+    margin-bottom: 3%;
+}
+
+
+.Proyecto2 h3{
+    text-align: center;
+}
+
+.Proyecto2 img{
+    border-radius: 10px;
+    max-width: 400px;
+    max-height: 300px;
+   
+}
+
+.Proyecto2 button{
+    margin-left: 35%;
+}
+
+.Proyecto3{
+    width: 400px;
+}
+
+.Proyecto3 h3{
+    text-align: center;
+}
+
+
+.Proyecto3 img{
+    border-radius: 10px;
+    max-height: 400px;
+    max-width: 100%;
+}
+
+.Proyecto3 button{
+    margin-left: 35%;
+}
+
+button{
+    border-color:#3500D4 ;  
+    border-radius: 10px; 
+    background-color: black;
+    color: #3500D4;
+}
